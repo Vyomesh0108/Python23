@@ -15,4 +15,4 @@ for i in reversed(range(count_seconds + 1)):
 a = 12
 b = 12
 c = 2023
-print(a,b,c,sep='-')
+print(a,b,c,sep='/')
