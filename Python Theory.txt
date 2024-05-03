@@ -1,0 +1,48 @@
+-> Python was developed in 1991 by "GUIDO VAN ROSSUM".
+-> Python was designed to run in wide variety environment.
+-> Using python we can create console application, web application, machine learning, Handle data science, Etc.
+
+* List '[]'
+-> List in python can be declared with box bracket '[]'.
+-> List is a group of any type of multiple data.
+-> List is mutable that is value of it can be changed at any level of program.
+
+* Tuple '()'
+-> Tuple is an immutable datatype in python, almost like list. But value of tuple cannot be modified.
+
+* Difference between list and tuple:
+
+	List:-
+	-> Used for homogeneous data type.
+	-> It is Mutable in behavior. Means it can be changed.
+	-> It is little slower.
+	-> It is not secured.
+
+	Tuple:- 
+	-> Used for heterogeneous data type.
+	-> It is immutable in behavior. Means it cannot be changed.
+	-> It is faster.
+	-> It is secured. 
+
+* Set '{}'
+-> It is a collection of unordered elements.
+-> It can be of any type and it is mutable also, but it cannot have repeated values.
+
+* Dictionary
+-> It is a collection of Key and value.
+-> It is unordered and mutable.
+-> Dictionary must be unique so, it can be used index to access value.
+
+* Difference between list and dictionary:
+
+	List:-
+	-> It is ordered. 
+	-> It is using index to access value.	
+	-> It is collection of values only.
+	-> It allows duplicate members.
+
+	Dictionary:-
+	-> It is unordered.
+	-> It is using key to access value.
+	-> It is collection of key value pair.
+	-> It doesn't allow duplicate members.

@@ -1,0 +1,7 @@
+Explicit '#' is better than implicit.
+Flat is better than nested.
+Sparse "#" is better than dense.
+Complex2 is # better than complicated.
+# Beautiful is better than ugly.
+# Simple is better than complex.
+Complex is # better than complicated.
